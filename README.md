@@ -1,6 +1,20 @@
 Wordle Game Description
-This project is a Wordle-like game built using React. The objective of the game is to guess a 5-letter word within six attempts. Each guess provides feedback with color-coded hints: green for correct letters in the correct positions, yellow for correct letters in the wrong positions, and gray for incorrect letters. The game includes features such as a dark mode toggle and animations for enhanced user experience.
+This project is a Wordle-like game built using React.
 
+The objective of the game is to guess a 5-letter word within six attempts.
+
+Each guess provides feedback with color-coded hints:
+
+Green for correct letters in the correct positions.
+
+Yellow for correct letters in the wrong positions.
+
+Gray for incorrect letters.
+
+The game includes features such as a dark mode toggle and animations for enhanced user experience.
+
+Demo Link
+https://wordle-game-1-app.vercel.app/
 
 
 Project Setup and Initialization
